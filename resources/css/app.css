@@ -1,0 +1,7 @@
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.full-height-dynamic {
+    height: 100vh;
+    height: 100dvh;
+}
