@@ -1,0 +1,91 @@
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+50 percent processed.
+61 percent processed.
+71 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.029 seconds (172.464 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+51 percent processed.
+61 percent processed.
+70 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.020 seconds (250.073 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+51 percent processed.
+60 percent processed.
+70 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.021 seconds (238.164 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+50 percent processed.
+61 percent processed.
+71 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.026 seconds (192.364 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+50 percent processed.
+61 percent processed.
+71 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.022 seconds (227.339 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+51 percent processed.
+60 percent processed.
+70 percent processed.
+80 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.021 seconds (238.164 MB/sec).
+10 percent processed.
+20 percent processed.
+30 percent processed.
+40 percent processed.
+50 percent processed.
+60 percent processed.
+71 percent processed.
+81 percent processed.
+90 percent processed.
+100 percent processed.
+Processed 640 pages for database 'bd_libros', file 'bd_libros' on file 1.
+Processed 1 pages for database 'bd_libros', file 'bd_libros_log' on file 1.
+BACKUP DATABASE successfully processed 641 pages in 0.030 seconds (166.715 MB/sec).

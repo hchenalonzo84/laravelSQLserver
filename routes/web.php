@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\BackupController;
 
 Route::get('/', function () {
     return view('auth.login');
@@ -20,3 +21,5 @@ Route::post('/register', [AuthController::class, 'registrar'])->name('registrar'
 Route::middleware(['auth.session'])->group(function () {
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
 });
+
+Route::get('/backup', [BackupController::class, 'ejecutar'])->name('backup');

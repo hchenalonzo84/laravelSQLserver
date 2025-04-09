@@ -4,11 +4,14 @@
 
 @section('content')
     @if (session()->has('usuario'))
-        <h1 class="text-center mt-5">¡Bienvenido al Dashboard!</h1>
-        <p class="text-center">Usuario conectado: <strong>{{ session('usuario') }}</strong></p>
-
-        <div class="text-center mt-3">
-            <a href="{{ route('logout') }}" class="btn btn-danger">Cerrar sesión</a>
+        <div class="fondo-comun">
+            <h1 class="text-center mt-5">¡Bienvenido al Dashboard!</h1>
+            
+            <p class="text-center">Usuario conectado: <strong>{{ session('usuario') }}</strong></p>
+            
+            <div class="text-center mt-3">
+                <a href="{{ route('logout') }}" class="btn btn-danger">Cerrar sesión</a>
+            </div>
         </div>
     @else
     @php
